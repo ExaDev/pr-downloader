@@ -22,7 +22,7 @@ concurrency:
 env:
   UPSTREAM: beyond-all-reason/pr-downloader
   MIRROR_BRANCH: master
-  WORK_BRANCH: macos-http1
+  WORK_BRANCH: main
 
 jobs:
   sync:
